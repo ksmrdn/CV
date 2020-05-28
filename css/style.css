@@ -33,11 +33,11 @@ body a:hover{
 }
 /*-- top-nav --*/  
 .top-nav {
-    background: #ec407a;
+    background: #0575e6;
 }
 .nav > li {
     display: inline-block;
-    padding: 1.5em 2em;
+    padding: 1em 0.8em;
 }
 ul.nav.navbar {
     margin: 0;
@@ -50,7 +50,7 @@ ul.nav.navbar li a {
     font-family: 'Text Me One', sans-serif;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active{ 
-	color:#ec407a;
+	color:#0575e6;
 	background:transparent;
 	outline:none;
 } 
@@ -178,7 +178,7 @@ h4.modal-title {
     color: #fff;
 }
 .about h3 span {
-    color: #f3286c;
+    color: #40e482;
 }
 .about h4 {
     font-size: 1.2em;
@@ -284,10 +284,10 @@ p {
 .experience-left {
     float: left;
     width: 30%;
-    background: #ec407a;
+    background: #40e682;
     text-align: center;
     padding: 2em 0;
-    border: 2px solid #ec407a;
+    border: 2px solid #01ff66;
 	-webkit-transition: .5s all;
 	-moz-transition: .5s all;
 	transition: .5s all;
@@ -297,7 +297,7 @@ p {
 .experience-right {
     float: right;
     width: 70%;
-    border: 1px solid #ec407a;
+    border: 1px solid #01ff66;
 	padding: 1.5em;
 }
 .experience-left h3 {
